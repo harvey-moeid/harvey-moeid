@@ -44,7 +44,7 @@ Saya membangun **Sistem POS (Point of Sale) & Manajemen Inventory** yang diranca
   </tr>
 </table>
 
-
+---
 
 ### Tech Stack
 
@@ -61,7 +61,7 @@ Saya membangun **Sistem POS (Point of Sale) & Manajemen Inventory** yang diranca
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
+---
 ### GitHub Stats
 
 <p align="center">
@@ -73,7 +73,7 @@ Saya membangun **Sistem POS (Point of Sale) & Manajemen Inventory** yang diranca
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harvey-moeid&theme=radical&border_radius=10" alt="Harvey's GitHub streak" />
 </p>
 
-
+---
 
 ### Kenapa Sistem Ini Berbeda
 
@@ -86,7 +86,7 @@ Saya membangun **Sistem POS (Point of Sale) & Manajemen Inventory** yang diranca
 | Harga terjangkau | Teknologi setara enterprise, harga bersahabat untuk UMKM |
 
 
-
+---
 ### Connect With Me
 
 <p align="center">
@@ -104,7 +104,7 @@ Saya membangun **Sistem POS (Point of Sale) & Manajemen Inventory** yang diranca
   </a>
 </p>
 
-
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harvey-moeid&label=Profile%20views&color=F7B32B&style=for-the-badge" alt="harveymoeid" />
