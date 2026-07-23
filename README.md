@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harvey Moeid 👋</h1>
+<h1 align="center">Hi, I'm Harvey Moeid </h1>
 <h3 align="center">Builder of POS & Inventory Systems for UMKM Indonesia</h3>
 
 <p align="center">
@@ -44,9 +44,7 @@ Saya membangun **Sistem POS (Point of Sale) & Manajemen Inventory** yang diranca
   </tr>
 </table>
 
-> Ganti nama & deskripsi proyek di atas dengan repo asli kamu, lalu tambahkan link Live Demo / Repo di bawah masing-masing.
 
----
 
 ### Tech Stack
 
@@ -63,24 +61,19 @@ Saya membangun **Sistem POS (Point of Sale) & Manajemen Inventory** yang diranca
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-> Sesuaikan badge dengan tools yang benar-benar kamu pakai untuk sistem POS & Inventory kamu.
-
----
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harveymoeid&show_icons=true&theme=radical&border_radius=10" alt="Harvey's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harveymoeid&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harvey-moeid&show_icons=true&theme=radical&border_radius=10" alt="Harvey's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harvey-moeid&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harveymoeid&theme=radical&border_radius=10" alt="Harvey's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harvey-moeid&theme=radical&border_radius=10" alt="Harvey's GitHub streak" />
 </p>
 
-> Ganti `harveymoeid` di semua URL di atas dengan username GitHub asli kamu.
 
----
 
 ### Kenapa Sistem Ini Berbeda
 
@@ -92,7 +85,7 @@ Saya membangun **Sistem POS (Point of Sale) & Manajemen Inventory** yang diranca
 | Laporan otomatis | Ambil keputusan bisnis berbasis data, bukan feeling |
 | Harga terjangkau | Teknologi setara enterprise, harga bersahabat untuk UMKM |
 
----
+
 
 ### Connect With Me
 
@@ -111,12 +104,10 @@ Saya membangun **Sistem POS (Point of Sale) & Manajemen Inventory** yang diranca
   </a>
 </p>
 
-> Ganti link LinkedIn, Instagram, email, dan WhatsApp dengan milikmu.
 
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harveymoeid&label=Profile%20views&color=F7B32B&style=for-the-badge" alt="harveymoeid" />
+  <img src="https://komarev.com/ghpvc/?username=harvey-moeid&label=Profile%20views&color=F7B32B&style=for-the-badge" alt="harveymoeid" />
 </p>
 
 <h3 align="center">Digitalisasi UMKM, Satu Sistem POS Setiap Waktu.</h3>
