@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harvey%20Moeid&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Cloudflare-Native%20Builder%20%7C%20MuidSoft%20%7C%20UMKM%20Digitalisasi&descSize=17&descAlignY=60&descColor=a78bfa" width="100%"/>
+<img src="./assets/header.svg" width="100%"/>
 
 <br/>
 
@@ -190,6 +190,6 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
 
 </div>
