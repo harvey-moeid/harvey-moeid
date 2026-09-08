@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Cloudflare+Workers+%7C+Hono+%7C+D1+%7C+R2+%7C+KV;POS+Cloud+%26+Inventory+%E2%80%94+KASIR+CLOUD;AI+Video+Generation+%E2%80%94+MuidSoft+Gen+Video;WhatsApp+Storefront+%E2%80%94+Etalase+Toko+WA;Custom+MCP+Server+%E2%80%94+Claude+AI+Connected;Ngoding+dari+Android+lewat+Termux+%F0%9F%93%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Cloudflare+Workers+%7C+Hono+%7C+D1+%7C+R2+%7C+KV;POS+Cloud+%26+Inventory+%E2%80%94+KASIR+CLOUD;AI+Video+Generation+%E2%80%94+MuidSoft+Gen+Video;WhatsApp+Storefront+%E2%80%94+Etalase+Toko+WA;Custom+MCP+Server+%E2%80%94+Claude+AI+Connected;Ngoding+dari+Android+lewat+Termux" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### ◈ Tentang Saya
 
 Saya **Moeid** — developer dari **Surabaya, Indonesia**, merangkap PPIC di **PT Winaros Kawula Bahari (WKB)**. Di luar kerja harian, saya membangun dan mengkomersilkan produk digital lewat brand **[MuidSoft](https://muidsoft.com)**.
 
@@ -29,21 +29,21 @@ Stack saya **Cloudflare-native** — Workers, D1, R2, KV, Queues, Durable Object
 Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first development bukan sekadar gaya, tapi cara hidup.
 
 ```
-🏢  PT Winaros Kawula Bahari (WKB) — PPIC
-🚀  MuidSoft — Independent Software Products
-📍  Surabaya, Indonesia
-📱  Android + Termux — primary dev environment
-🤖  Claude AI — integrated via custom MCP Server
+▸  PT Winaros Kawula Bahari (WKB) — PPIC
+▸  MuidSoft — Independent Software Products
+▸  Surabaya, Indonesia
+▸  Android + Termux — primary dev environment
+▸  Claude AI — integrated via custom MCP Server
 ```
 
 ---
 
-### 🏗️ Proyek Aktif
+### ◆ Proyek Aktif
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧾 KASIR CLOUD</h3>
+      <h3>◆ KASIR CLOUD</h3>
       <p>Sistem POS cloud berbasis <strong>Hono + D1 + R2</strong>. Sudah dipakai oleh beberapa toko nyata. Fitur lengkap: preorder DP/Lunas/Belum Bayar, profit report, thermal printer, barcode scan, Chart.js sales trend, activity log, dan mode offline via Termux.</p>
       <p>
         <img src="https://img.shields.io/badge/status-production-22c55e?style=flat-square" />
@@ -52,7 +52,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 MuidSoft Gen Video</h3>
+      <h3>◆ MuidSoft Gen Video</h3>
       <p>Platform AI video generation di Cloudflare Workers — multi-provider pool (<strong>Kling AI, Runway, Luma</strong>), quota-aware routing, R2 storage, Hono + Queues + Drizzle. Fase 5 dengan arsitektur adapter pattern.</p>
       <p>
         <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" />
@@ -63,7 +63,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ Etalase Toko WA</h3>
+      <h3>◆ Etalase Toko WA</h3>
       <p>WhatsApp storefront app — galeri produk multi-foto, order history, quota enforcement, magic-byte file validation, numbered D1 migrations, dan dokumentasi ARCHITECTURE.md lengkap.</p>
       <p>
         <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" />
@@ -72,7 +72,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 WKB-GIM</h3>
+      <h3>◆ WKB-GIM</h3>
       <p>Warehouse management internal PT WKB — tracking inbound/outbound, Chart.js rekap, frontend Cloudflare Pages, backend Google Apps Script. Sedang dalam refactor deep dengan outbound draft system.</p>
       <p>
         <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" />
@@ -83,7 +83,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔮 JalurTarot</h3>
+      <h3>◆ JalurTarot</h3>
       <p>Aplikasi tarot berbasis web untuk pasar Indonesia — Workers API + Pages frontend, D1 + KV + R2, OpenRouter AI integration. Asset visual dibuat dari scratch termasuk logo SVG custom.</p>
       <p>
         <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" />
@@ -92,7 +92,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Harvey MCP Server</h3>
+      <h3>◆ Harvey MCP Server</h3>
       <p>Custom MCP Server di Cloudflare Workers yang terkoneksi langsung ke Claude.ai — memungkinkan AI mengakses tool & data secara real-time. Implementasi full OAuth 2.0 flow.</p>
       <p>
         <img src="https://img.shields.io/badge/status-deployed-22c55e?style=flat-square" />
@@ -105,9 +105,9 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
 
 ---
 
-### 🛠️ Tech Stack
+### ◈ Tech Stack
 
-**☁️ Cloudflare Ecosystem**
+**— Cloudflare Ecosystem**
 
 <p>
   <img src="https://img.shields.io/badge/Workers-F6821F?style=for-the-badge&logo=cloudflare&logoColor=white" />
@@ -119,7 +119,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
   <img src="https://img.shields.io/badge/Durable%20Objects-F6821F?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-**🖥️ Languages & Frameworks**
+**— Languages & Frameworks**
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -131,7 +131,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-**🗄️ Database & ORM**
+**— Database & ORM**
 
 <p>
   <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
@@ -140,7 +140,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </p>
 
-**🧰 Tools & Other**
+**— Tools & Other**
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -152,7 +152,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
 
 ---
 
-### 📊 GitHub Stats
+### ◈ GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=harvey-moeid&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&count_private=true&include_all_commits=true" />
@@ -165,7 +165,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
 
 ---
 
-### 🌐 Connect
+### ◈ Connect
 
 <p align="center">
   <a href="https://muidsoft.com" target="_blank">
