@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <circle cx="80" cy="40" r="60" fill="rgba(167,139,250,0.04)"/>
+  <circle cx="820" cy="160" r="80" fill="rgba(129,140,248,0.04)"/>
+  <circle cx="450" cy="10" r="120" fill="rgba(167,139,250,0.03)"/>
+  <path d="M0,155 Q225,125 450,155 Q675,185 900,155 L900,200 L0,200 Z" fill="rgba(167,139,250,0.07)"/>
+  <path d="M0,170 Q225,148 450,170 Q675,192 900,170 L900,200 L0,200 Z" fill="rgba(167,139,250,0.04)"/>
+  <text x="450" y="88" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" fill="white" text-anchor="middle" letter-spacing="3">Harvey Moeid</text>
+  <rect x="370" y="100" width="160" height="2" fill="url(#accent)" rx="1"/>
+  <text x="450" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#a78bfa" text-anchor="middle" letter-spacing="1.5">Cloudflare-Native Builder · MuidSoft · UMKM Digitalisasi</text>
+</svg>
