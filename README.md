@@ -22,14 +22,14 @@
 
 ### ◈ Tentang Saya
 
-Saya **Moeid** — developer dari **Surabaya, Indonesia**, merangkap PPIC di **PT Winaros Kawula Bahari (WKB)**. Di luar kerja harian, saya membangun dan mengkomersilkan produk digital lewat brand **[MuidSoft](https://muidsoft.com)**.
+Saya **Moeid** — developer dari **Surabaya, Indonesia**, merangkap PPIC di **PT WKB**. Di luar kerja harian, saya membangun dan mengkomersilkan produk digital lewat brand **[MuidSoft](https://muidsoft.com)**.
 
 Stack saya **Cloudflare-native** — Workers, D1, R2, KV, Queues, Durable Objects — semua serverless, edge-first, dan efisien biaya. Saya aktif mengintegrasikan **AI (Claude)** ke dalam workflow development, bahkan punya **custom MCP Server** sendiri yang terkoneksi langsung ke Claude.ai.
 
 Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first development bukan sekadar gaya, tapi cara hidup.
 
 ```
-▸  PT Winaros Kawula Bahari (WKB) — PPIC
+▸  PT WKB — PPIC
 ▸  MuidSoft — Independent Software Products
 ▸  Surabaya, Indonesia
 ▸  Android + Termux — primary dev environment
@@ -72,8 +72,8 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>◆ WKB-GIM</h3>
-      <p>Warehouse management internal PT WKB — tracking inbound/outbound, Chart.js rekap, frontend Cloudflare Pages, backend Google Apps Script. Sedang dalam refactor deep dengan outbound draft system.</p>
+      <h3>◆ INVENTORY</h3>
+      <p>Warehouse management internal PT — tracking inbound/outbound, Chart.js rekap, frontend Cloudflare Pages, backend Google Apps Script. Sedang dalam refactor deep dengan outbound draft system.</p>
       <p>
         <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" />
         <img src="https://img.shields.io/badge/Pages+GAS-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -171,7 +171,7 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
   <a href="https://muidsoft.com" target="_blank">
     <img src="https://img.shields.io/badge/muidsoft.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://wa.me/62YOUR_NUMBER" target="_blank">
+  <a href="https://wa.me/6287875596905" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@muidsoft.com">
