@@ -22,14 +22,13 @@
 
 ### ◈ Tentang Saya
 
-Saya **Moeid** — developer dari **Surabaya, Indonesia**, merangkap PPIC di **PT WKB**. Di luar kerja harian, saya membangun dan mengkomersilkan produk digital lewat brand **[MuidSoft](https://muidsoft.com)**.
+Saya **Moeid** — developer dari **Surabaya, Indonesia**, merangkap PPIC di **PT **. Di luar kerja harian, saya membangun dan mengkomersilkan produk digital lewat brand **[MuidSoft](https://muidsoft.com)**.
 
 Stack saya **Cloudflare-native** — Workers, D1, R2, KV, Queues, Durable Objects — semua serverless, edge-first, dan efisien biaya. Saya aktif mengintegrasikan **AI (Claude)** ke dalam workflow development, bahkan punya **custom MCP Server** sendiri yang terkoneksi langsung ke Claude.ai.
 
 Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first development bukan sekadar gaya, tapi cara hidup.
 
 ```
-▸  PT WKB — PPIC
 ▸  MuidSoft — Independent Software Products
 ▸  Surabaya, Indonesia
 ▸  Android + Termux — primary dev environment
