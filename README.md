@@ -100,6 +100,27 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◆ Remotion Studio</h3>
+      <p>Platform video motion berbasis <strong>Remotion</strong> yang jalan di tier gratis Cloudflare + GitHub Actions. Worker Hono memicu render lewat workflow_dispatch, hasil MP4 + thumbnail disimpan di R2. Ada template kustom dengan editor kode sendiri, Asset Manager, riwayat render, dan frontend PWA.</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Workers+KV+R2-F6821F?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◆ BTC Dashboard</h3>
+      <p>Dashboard prediksi harga BTC di Cloudflare — frontend Pages, backend Worker + KV dengan cron per jam untuk berita dan Fear &amp; Greed Index. Model prediksi Python (NOCTUA) berjalan tiap 30 menit lewat GitHub Actions dan mendorong hasilnya ke Worker.</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Workers+KV+Pages-F6821F?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
