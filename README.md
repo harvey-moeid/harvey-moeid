@@ -121,6 +121,18 @@ Hal unik: saya ngoding sepenuhnya dari **Android lewat Termux** — mobile-first
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>◆ BYGA AI Trading Office</h3>
+      <p>Kantor trading 3D interaktif (React Three Fiber) dengan tim analis AI. Scanner berjalan tiap 5 menit di Cloudflare Worker + Durable Objects + D1; empat grup konsensus (SMC/ICT, Indikator, Volume, Derivatives) memicu analisis, lalu analis AI, Risk Manager, dan Boss memutuskan lewat voting. Dilengkapi panel Admin, audit lengkap tiap kasus, dan notifikasi Discord.</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Workers+DO+D1-F6821F?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multi--Provider%20AI-7C3AED?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
